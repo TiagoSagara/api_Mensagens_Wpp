@@ -1,0 +1,23 @@
+body{
+  background-color: whitesmoke;
+
+}
+header{
+  background-color: #4F709C;
+}
+
+textarea{
+  height: 20em;
+}
+
+#centro{
+  background-color: #dcdcdc;
+  border: solid 1px #4F709C;
+  border-radius: 15px;
+  box-shadow: 5px 5px 15px 5px #4f709c;;
+}
+
+footer{
+  background-color: #DDE6ED;
+  color: #181D43;
+}
